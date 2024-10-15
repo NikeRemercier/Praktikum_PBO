@@ -45,3 +45,4 @@ public class IndeksMassaTubuh {
         input.close();
     }
 }
+    
